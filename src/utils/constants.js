@@ -1,0 +1,1 @@
+//các hằng số(URL API, role)
